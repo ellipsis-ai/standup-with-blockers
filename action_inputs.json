@@ -1,49 +1,9 @@
 [ {
-  "exportId" : "-cMmpDoNRL6yYk4a383vQA",
-  "name" : "channel",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "For which channel?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "5PV4f6gpQO6v3RzrcDCNDg",
-  "name" : "yesterday",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What did you do the last day you worked?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "6Y3TokS7Sq6FQRILFagxKg",
-  "name" : "today",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What are you going to do today?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "9nBO_pq3TjGu_GbH56tlhw",
-  "name" : "today",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What are you going to do today?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "FfxGjaOFTRWdfWofxozkRA",
   "name" : "blockers",
   "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
+    "exportId" : "0UxOcIMsSN-wGmaN-rJ4LQ",
+    "name" : "Blocker"
   },
   "question" : "Any blockers at the moment?",
   "isSavedForTeam" : false,
@@ -56,16 +16,6 @@
     "name" : "Text"
   },
   "question" : "In what channel should I run this?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "P9mNVcqhTPK-rs50EzM6cw",
-  "name" : "blockers",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "OK, what's blocking you right now?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -89,16 +39,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "UoMNvhulSmaRWPLjsVKAFA",
-  "name" : "blockers",
-  "paramType" : {
-    "exportId" : "0UxOcIMsSN-wGmaN-rJ4LQ",
-    "name" : "Blocker"
-  },
-  "question" : "Any blockers at the moment?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "UuoKvs07QwO1k17mSxxRxA",
   "name" : "today",
   "paramType" : {
@@ -110,16 +50,6 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "Xa_v_30vTVuvtWjKRT191Q",
-  "name" : "channel",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "For which channel?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "cyJJsPaFRRy9BpMIW4ZfAg",
   "name" : "channel",
   "paramType" : {
     "exportId" : "Text",
@@ -146,16 +76,6 @@
     "name" : "Text"
   },
   "question" : "For which channel?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "hj-vAwV7TMSX7vDFSQ2jUA",
-  "name" : "yesterday",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What did you do the last day you worked?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {

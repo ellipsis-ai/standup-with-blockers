@@ -9,7 +9,7 @@ Here's where everyone's at today:
 
 **Yesterday:** {userResult.yesterday}  
     **Today:** {userResult.today}  
- **Blockers:** {userResult.blockers}  
+ **Blockers:** {userResult.blockers.label}  
 
 {endfor}
 
