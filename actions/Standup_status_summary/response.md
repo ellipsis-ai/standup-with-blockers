@@ -1,5 +1,5 @@
 {if successResult.nobodyWasAsked}
-Standup hasn't run in {successResult.channelName}. You can set up a new standup using `…setup classic standup`
+Standup hasn't run in {successResult.channelName}. You can set up a new standup using `@{ellipsis.teamInfo.botName} setup standup`
 {else}
 Here's where everyone's at today:
 
