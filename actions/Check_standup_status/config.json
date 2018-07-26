@@ -2,5 +2,7 @@
   "exportId" : "E-KWn00hQLePO5DNRPrjXA",
   "name" : "Check standup status",
   "forcePrivateResponse" : false,
-  "isDataType" : false
+  "canBeMemoized" : false,
+  "isDataType" : false,
+  "isTest" : false
 }

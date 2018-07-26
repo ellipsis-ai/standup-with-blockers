@@ -2,7 +2,7 @@ function(ellipsis) {
   ellipsis.success("", {
   choices: [{
     actionName: "Setup",
-    label: "Setup Standup"
+    label: "Run setup now"
   }, {
     actionName: "FAQ",
     label: "Standup FAQ"
